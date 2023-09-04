@@ -3,7 +3,7 @@
 In this repository, I present my implementation of the Dual-Stage Attention-Based Recurrent Neural Network (DA-RNN) model, with a focus on time series prediction (source paper: https://arxiv.org/abs/1704.02971). This personal project allowed me to delve into the intricacies of this model and explore its potential by incorporating Graph Attention Networks (GAT) and handling multiple features per timestep.
 
 ## Key Features
-- `Graph Attention Networks (GAT)`: This implementation extends the DA-RNN model by incorporating GAT into the architecture. This addition enables the model to capture complex relationships between different time series data, enhancing its predictive capabilities.
+- `Graph Attention Networks (GAT)`: This implementation extends the DA-RNN model by incorporating GAT into the architecture. This addition enables the model to capture complex relationships between different time series data, possibly enhancing its predictive capabilities.
 
 - `Multiple Features per Timestep`: Unlike the original DA-RNN, this version accommodates multiple features per timestep, allowing for a more comprehensive analysis of the input data.
 
